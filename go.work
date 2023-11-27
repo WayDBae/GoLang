@@ -5,6 +5,7 @@ use (
 	./Begin
 	./Boolean
 	./For
+	./Informatics
 	./Integer
 	./While
 )
